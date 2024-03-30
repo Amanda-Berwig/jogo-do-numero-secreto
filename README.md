@@ -2,8 +2,7 @@
 
 Projeto desenvolvido no curso de Lógica de Programação da Alura. O Jogo do Número Secreto é um projeto simples em JavaScript onde um número aleatório entre 1 e 10 é gerado e o usuário precisa tentar adivinhar o número correto.
 
-![Imagem do jogo](logo jogo do num secreto.png)
-
+![imagem jogo](https://i.imgur.com/HullaMb.png)
 # :hammer: Funcionalidades do projeto
 
 - O usuário insere um número entre 1 e 10 em um campo de entrada.
